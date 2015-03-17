@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\bin\Debug\Program_04_LabelTextBox.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\bin\Debug\Program_04_LabelTextBox.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\bin\Debug\Program_04_LabelTextBox.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_04_LabelTextBox\Program_04_LabelTextBox\obj\x86\Debug\Program_04_LabelTextBox.pdb

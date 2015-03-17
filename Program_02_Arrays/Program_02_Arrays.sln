@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Program_02_Arrays", "Program_02_Arrays\Program_02_Arrays.vbproj", "{895E1D0C-2644-4B4B-A14F-FC14B003D37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895E1D0C-2644-4B4B-A14F-FC14B003D37E}.Debug|x86.ActiveCfg = Debug|x86
+		{895E1D0C-2644-4B4B-A14F-FC14B003D37E}.Debug|x86.Build.0 = Debug|x86
+		{895E1D0C-2644-4B4B-A14F-FC14B003D37E}.Release|x86.ActiveCfg = Release|x86
+		{895E1D0C-2644-4B4B-A14F-FC14B003D37E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\bin\Debug\Program_03_OperadoresA.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\bin\Debug\Program_03_OperadoresA.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\bin\Debug\Program_03_OperadoresA.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_03_OperadoresA\Program_03_OperadoresA\obj\x86\Debug\Program_03_OperadoresA.pdb

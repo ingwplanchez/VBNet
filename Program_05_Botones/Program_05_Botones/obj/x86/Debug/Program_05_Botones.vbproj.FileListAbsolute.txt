@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\bin\Debug\Program_05_Botones.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\bin\Debug\Program_05_Botones.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\bin\Debug\Program_05_Botones.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_05_Botones\Program_05_Botones\obj\x86\Debug\Program_05_Botones.pdb

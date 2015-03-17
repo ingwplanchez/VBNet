@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\bin\Debug\Program_00_HolaMundo.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\bin\Debug\Program_00_HolaMundo.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\bin\Debug\Program_00_HolaMundo.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_00_HolaMundo\Program_00_HolaMundo\obj\x86\Debug\Program_00_HolaMundo.pdb

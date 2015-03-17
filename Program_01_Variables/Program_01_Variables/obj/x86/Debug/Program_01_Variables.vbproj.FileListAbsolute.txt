@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\bin\Debug\Program_01_Variables.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\bin\Debug\Program_01_Variables.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\bin\Debug\Program_01_Variables.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.pdb

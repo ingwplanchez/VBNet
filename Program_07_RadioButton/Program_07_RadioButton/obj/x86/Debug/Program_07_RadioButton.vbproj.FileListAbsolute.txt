@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\bin\Debug\Program_07_RadioButton.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\bin\Debug\Program_07_RadioButton.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\bin\Debug\Program_07_RadioButton.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_07_RadioButton\Program_07_RadioButton\obj\x86\Debug\Program_07_RadioButton.pdb

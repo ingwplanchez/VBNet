@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\bin\Debug\Program_02_Arrays.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\bin\Debug\Program_02_Arrays.pdb
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\bin\Debug\Program_02_Arrays.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.exe
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.xml
+C:\Users\Anonymous\Documents\GitHub\VB.Net\Proyects\VBNet\Program_02_Arrays\Program_02_Arrays\obj\x86\Debug\Program_02_Arrays.pdb
