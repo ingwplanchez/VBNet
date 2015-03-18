@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\bin\Debug\Program_10_Do.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\bin\Debug\Program_10_Do.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\bin\Debug\Program_10_Do.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_10_Do\Program_10_Do\obj\x86\Debug\Program_10_Do.pdb

@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\bin\Debug\Program_08_CheckBox.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\bin\Debug\Program_08_CheckBox.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\bin\Debug\Program_08_CheckBox.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_08_CheckBox\Program_08_CheckBox\obj\x86\Debug\Program_08_CheckBox.pdb

@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\bin\Debug\Program_11_SelectCase.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\bin\Debug\Program_11_SelectCase.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\bin\Debug\Program_11_SelectCase.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_11_SelectCase\Program_11_SelectCase\obj\x86\Debug\Program_11_SelectCase.pdb
