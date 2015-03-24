@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\bin\Debug\Program_12_MenuStrip.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\bin\Debug\Program_12_MenuStrip.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\bin\Debug\Program_12_MenuStrip.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_12_MenuStrip\Program_12_MenuStrip\obj\x86\Debug\Program_12_MenuStrip.pdb

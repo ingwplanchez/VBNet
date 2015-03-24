@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\bin\Debug\Program_14_Funciones.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\bin\Debug\Program_14_Funciones.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\bin\Debug\Program_14_Funciones.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_14_Funciones\Program_14_Funciones\obj\x86\Debug\Program_14_Funciones.pdb

@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\bin\Debug\Program_13_TabControl.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\bin\Debug\Program_13_TabControl.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\bin\Debug\Program_13_TabControl.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_13_TabControl\Program_13_TabControl\obj\x86\Debug\Program_13_TabControl.pdb

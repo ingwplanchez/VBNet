@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\bin\Debug\Program_15_FuncionNumeros.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\bin\Debug\Program_15_FuncionNumeros.pdb
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\bin\Debug\Program_15_FuncionNumeros.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.vbproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.exe
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.xml
+C:\Users\Anonymous\Documents\GitHub\VBNet\Program_15_FuncionNumeros\Program_15_FuncionNumeros\obj\x86\Debug\Program_15_FuncionNumeros.pdb
